@@ -5,7 +5,7 @@
 
 
 ###
-<h3 align="left">🛠 Tools:</h3>
+<h3 align="left"> 💻 Tools:</h3>
 
 ###
 <div align="left">
@@ -24,7 +24,7 @@
 </div>
 
 ###
-<h3 align="left"> 🔭 I’m currently working on </h3>
+<h3 align="left"> 🚀 I’m currently working on </h3>
 
 ###
 
