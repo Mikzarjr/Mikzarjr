@@ -1,10 +1,7 @@
 <h2> Hi, I'm Mikhail Zarembo!👋 </h2>
 
 
-contact me:
-[![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=black&logoSize=auto&labelColor=blue&color=blue)](https://t.me/michellangelloo)
 
-email
 
 
 - 🔭 I’m currently working on 
@@ -14,3 +11,8 @@ email
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{Mikzarjr}/count.svg)
+[![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=black&logoSize=auto&labelColor=blue&color=blue)](https://t.me/michellangelloo)
+[![Static Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=red&logoSize=auto&labelColor=black)](mikzar.jr@gmail.com)
+<a href="mikzar.jr@gmail.com">qwe</a>
+
+<a href="mikzar.jr@gmail.com">[![Static Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=red&logoSize=auto&labelColor=black)]</a>
