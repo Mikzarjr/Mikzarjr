@@ -32,4 +32,3 @@
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/{Mikzarjr}/count.svg)
