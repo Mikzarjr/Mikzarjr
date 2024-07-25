@@ -4,9 +4,11 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="py"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="tensorflow"  />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow"  />
   <img width="12" />
 
 </div>
