@@ -5,11 +5,9 @@
 
 
 ###
-
 <h3 align="left">🛠 Tools:</h3>
 
 ###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="py"/>
   <img width="12" />
@@ -26,7 +24,6 @@
 </div>
 
 ###
-
 <h3 align="left"> 🔭 I’m currently working on </h3>
 
 ###
