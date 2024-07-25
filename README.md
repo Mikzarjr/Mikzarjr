@@ -1,7 +1,9 @@
 <h2> Hi, I'm Mikhail Zarembo!👋 </h2>
 contact me:
-[![](https://img.shields.io/badge/-@DanBel1kov-%231DA1F2?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/michellangelloo)
+telegram
+email
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mikzarjr&theme=onedark)](https://github.com/Mikzarjr/github-profile-trophy)
 
 ### A little more about me...  
 
