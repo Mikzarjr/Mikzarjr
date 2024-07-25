@@ -4,13 +4,19 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="py"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="py"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch"  />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow"  />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp"/>
+  <img width="12" />
+  
 
+  
 </div>
 
 ###
