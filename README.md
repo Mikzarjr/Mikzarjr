@@ -1,6 +1,12 @@
 <h2> Hi, I'm Mikhail Zarembo!👋 </h2>
 
 
+<details>
+<summary>
+  skills
+  
+</summary>
+</details>
 
 
 
