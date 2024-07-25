@@ -2,7 +2,7 @@
 
 
 contact me:
-![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=black&logoSize=auto&labelColor=blue&color=blue&link=https%3A%2F%2Ft.me%2Fmichellangelloo)
+[![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=black&logoSize=auto&labelColor=blue&color=blue)](https://t.me/michellangelloo)
 
 email
 
