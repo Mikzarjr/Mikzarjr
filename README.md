@@ -15,4 +15,4 @@
 [![Static Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=red&logoSize=auto&labelColor=black)](mikzar.jr@gmail.com)
 <a href="mikzar.jr@gmail.com">qwe</a>
 
-<a href="mikzar.jr@gmail.com">[![Static Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=red&logoSize=auto&labelColor=black)]</a>
+[![Static Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=red&logoSize=auto&labelColor=black)](mailto:mikzar.jr@gmail.com?subject=From%20GitHub)
