@@ -26,6 +26,7 @@
 
 ###
 
+[![Face Segmentation](https://svg.bookmark.style/api?url=https://github.com/Mikzarjr/FaceSegmentation&mode=light&style=horizontal)](https://github.com/Mikzarjr/FaceSegmentation)
 [![DeepFake Detection](https://svg.bookmark.style/api?url=https://github.com/pshakhmin/deepfakes&mode=light&style=horizontal)](https://github.com/pshakhmin/deepfakes)
 
 
